@@ -30,7 +30,7 @@ by FRANCISCO MARROQUÍN UNIVERSITY
 Guatemala city, Guatemala // 2009
 
 
-### Complementary studies
+##### Complementary studies
 
 **Master in hotel, restaurant, and F&B management** 
 by OSTELEA SCHOOL OF TOURISM & HOSPITALITY
