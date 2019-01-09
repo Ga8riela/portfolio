@@ -9,6 +9,8 @@ Currently collaborating with **RAUM studio** as a freelance architect. This stud
 
 ![This is me][1]
 
+
+
 #### Education
 
 **Postgraduate course: Projecting the hotel of the XXI century** 
@@ -28,7 +30,7 @@ by FRANCISCO MARROQUÍN UNIVERSITY
 Guatemala city, Guatemala // 2009
 
 
-**Complementary studies**
+### Complementary studies
 
 **Master in hotel, restaurant, and F&B management** 
 by OSTELEA SCHOOL OF TOURISM & HOSPITALITY
