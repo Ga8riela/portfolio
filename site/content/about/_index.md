@@ -7,7 +7,7 @@ title = "About me"
 
 I´m currently collaborating with **RAUM studio** as a freelance architect. This studio specializes on retail design, focusing on branding, interior design and mobile design.
 
-                                                 ![This is me][1]
+   ![This is me][1]
 
 
 
@@ -43,10 +43,9 @@ Barcelona, Spain // 2015-2016
 
 
 #### Languages
-**Spanish**  Maternal language
-**English**  Advanced level
-**French**   Basic Level
-**Catalan**  Undestand common talk
+**Spanish**  Maternal language        **English**  Advanced level
+
+**French**   Basic Level              **Catalan**  Undestand common talk
 
 
 [1]: /img/Abb.png
