@@ -1,18 +1,13 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/P1.png"
 date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+title = "La Presidenta Market"
 weight = 0
 +++
 
-laLALA all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-<!--more-->
-
-Project. Project. Project.
-
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Proposal for one of the most commercial areas in the city center of Guatemala City. The intervention includes a 
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
