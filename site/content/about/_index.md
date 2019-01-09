@@ -9,31 +9,36 @@ Currently collaborating with **RAUM studio** as a freelance architect. This stud
 
 ![This is me][1]
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
 #### Education
 
-- Postgraduate course: Projecting the hotel of the XXI century 
-Barcelona, Spain // Jan 2018 - Jul 2018 (Still in course)
+**Postgraduate course: Projecting the hotel of the XXI century** 
+by ESCOLA SERT -OF THE CATALUNYA SCHOOL OF ARCHITECTS-
+Barcelona, Spain // Jan 2018 - Jul 2018 
 
-- Architecture licenciate by FRANCISCO MARROQUÍN UNIVERSITY
+**Architecture licenciate** 
+by FRANCISCO MARROQUÍN UNIVERSITY
 Guatemala city, Guatemala // 2013
 
-- Master in hotel, restaurant, and F&B management by OSTELEA SCHOOL OF TOURISM & 
-HOSPITALITY
-Barcelona, Spain // 2017
-
-- Complementary studies
-
-- Pastry chef by ESCUELA DE HOSTELERÍA HOFMANN
-Barcelona, Spain // 2015-2016
-
-- Architecture Lab: The link between history and contemporary Russian architecture by
-FRANCISCO MARROQUÍN UNIVERSITY
+**Architecture Lab: The link between history and contemporary Russian architecture** 
+by FRANCISCO MARROQUÍN UNIVERSITY
 Moscow, Russia - Saint Petersburg, Russia // July 2011
 
-- Digital Fabrication (Fablab) by Prof. Axel Paredes of Paredes + Alemán arquitectos by FRANCISCO MARROQUÍN UNIVERSITY
+**Digital Fabrication (Fablab) by Prof. Axel Paredes of Paredes + Alemán arquitectos**
+by FRANCISCO MARROQUÍN UNIVERSITY
 Guatemala city, Guatemala // 2009
+
+
+**Complementary studies**
+
+**Master in hotel, restaurant, and F&B management** 
+by OSTELEA SCHOOL OF TOURISM & HOSPITALITY
+Barcelona, Spain // 2017
+
+**Pastry chef**
+by ESCUELA DE HOSTELERÍA HOFMANN
+Barcelona, Spain // 2015-2016
+
+
 
 [1]: /img/Abb.png
 
