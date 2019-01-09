@@ -13,9 +13,27 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 
 #### Education
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.AA
-* Aliquam tincidunt mauris eu risus.
+- Postgraduate course: Projecting the hotel of the XXI century 
+Barcelona, Spain // Jan 2018 - Jul 2018 (Still in course)
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+- Architecture licenciate by FRANCISCO MARROQUÍN UNIVERSITY
+Guatemala city, Guatemala // 2013
 
-[1]: /img/Screen%20Shot%202019-01-09%20at%207.46.24%20PM.jpg
+- Master in hotel, restaurant, and F&B management by OSTELEA SCHOOL OF TOURISM & 
+HOSPITALITY
+Barcelona, Spain // 2017
+
+- Complementary studies
+
+- Pastry chef by ESCUELA DE HOSTELERÍA HOFMANN
+Barcelona, Spain // 2015-2016
+
+- Architecture Lab: The link between history and contemporary Russian architecture by
+FRANCISCO MARROQUÍN UNIVERSITY
+Moscow, Russia - Saint Petersburg, Russia // July 2011
+
+- Digital Fabrication (Fablab) by Prof. Axel Paredes of Paredes + Alemán arquitectos by FRANCISCO MARROQUÍN UNIVERSITY
+Guatemala city, Guatemala // 2009
+
+[1]: /img/Abb.png
+
