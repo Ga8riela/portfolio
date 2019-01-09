@@ -3,9 +3,9 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+I´m an **architect**, pastry chef and coffee lover. I´m living in Barcelona, and absolutely love the city. I never though I would be able to live in the same city as Gaudí. I would like to design as him, but for now I´m in the path of learning. And my path takes me to the world of interior design, which is where I´m focusing right now.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+Currently collaborating with **RAUM studio** as a freelance architect. This studio specializes on retail design, focusing on branding, interior design and mobile design.
 
 ![This is me][1]
 
