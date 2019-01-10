@@ -7,7 +7,7 @@ title = "About me"
 
 I´m currently collaborating with **RAUM studio** as a freelance architect. This studio specializes on retail design, focusing on branding, interior design and mobile design.
 
-####![This is me][1]
+   ![This is me][1]
 
 
 
