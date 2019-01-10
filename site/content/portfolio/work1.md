@@ -18,6 +18,7 @@ Guatemala city, Guatemala
 > Proposal to improve urban layout, comercial areas and creation of public areas and a children school. This project was part of my urbanism course, aiming improve the area, affected by insecurity, pollution and constant traffic problems.
 
    ![Project2][2]
+   
    ![Project3][3]
 
 
