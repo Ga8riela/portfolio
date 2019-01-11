@@ -32,12 +32,12 @@ This project was nominated for "Best projects of the architecture faculty UFM of
    
    ![Project2][7]   
    
-[1]: /img/portfolio/P1.A.jpg
-[2]: /img/portfolio/P1.B.jpg
-[3]: /img/portfolio/P1.C.jpg
-[4]: /img/portfolio/P1.D.jpg
-[5]: /img/portfolio/P1.E.jpg
-[6]: /img/portfolio/P1.F.jpg
-[7]: /img/portfolio/P1.G.jpg
-[8]: /img/portfolio/P1.H.jpg
+[1]: /img/portfolio/P2.A.jpg
+[2]: /img/portfolio/P2.B.jpg
+[3]: /img/portfolio/P2.C.jpg
+[4]: /img/portfolio/P2.D.jpg
+[5]: /img/portfolio/P2.E.jpg
+[6]: /img/portfolio/P2.F.jpg
+[7]: /img/portfolio/P2.G.jpg
+[8]: /img/portfolio/P2.H.jpg
 
