@@ -18,7 +18,7 @@ Guatemala city, Guatemala
 
 > This project was a group development at university. Due to the lack of parks and green areas in Zone 14 of the city of Guatemala, we visualized a public area where we could attract investors by developing mixed used buildings for the overall social improvement. After the urban proposal, each one of the group designed a building. My proposal was to take advantage of the morphology of the parking entrance, a circular ramp. The facade was based on the sun trajectory. 
 
-This project was nominated for "Best projects of the architecture faculty UFM of 2012". 
+> This project was nominated for "Best projects of the architecture faculty UFM of 2012". 
 
    ![Project2][2]
    
