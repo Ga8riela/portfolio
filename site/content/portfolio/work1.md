@@ -12,6 +12,7 @@ weight = 0
 Project: La Presidenta Market
 
 Guatemala city, Guatemala
+<!--more-->
 
 2011
 
