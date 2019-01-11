@@ -7,8 +7,6 @@ showonlyimage = false
 weight = 1
 +++
    
-Project: Torre 2 Apartments
-
 Guatemala city, Guatemala
 
 2012
