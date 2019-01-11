@@ -6,8 +6,6 @@ image = "img/portfolio/P2.A.jpg"
 showonlyimage = false
 weight = 1
 +++
-
-   ![Project2][1]
    
 Project: Torre 2 Apartments
 
@@ -31,6 +29,8 @@ Guatemala city, Guatemala
    ![Project2][6]
    
    ![Project2][7]   
+   
+   ![Project2][1]
    
 [1]: /img/portfolio/P2.A.jpg
 [2]: /img/portfolio/P2.B.jpg
