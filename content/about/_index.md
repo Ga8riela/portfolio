@@ -1,7 +1,7 @@
-+++
-date = "2019-01-09T21:05:33+05:30"
-title = "About me"
-+++
+---
+title: "About me"
+date: "2019-01-09T21:05:33+05:30"
+---
 
 **Architect**, pastry chef and coffee lover. I´m currently living in Barcelona, and absolutely love the city. Never though I would be able to live in the same city as Gaudí. Would like to design as him, but for now I´m in the path of learning. And my path takes me to the world of interior design, which is where I´m focusing right now.
 
