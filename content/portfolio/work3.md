@@ -1,7 +1,7 @@
 ---
 image: "img/portfolio/gravity-paper.jpg"
 showonlyimage: false
-date: "2019-01-11T19:44:32+05:30"
+date: ""
 title: "San José Airport"
 draft: false
 weight: 2

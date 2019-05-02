@@ -1,7 +1,7 @@
 ---
 image: "img/portfolio/label-clothes.jpg"
 showonlyimage: false
-date: "2016-11-05T19:57:40+05:30"
+date: ""
 title: "Name of the work 7"
 draft: false
 weight: 7

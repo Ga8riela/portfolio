@@ -2,7 +2,7 @@
 showonlyimage: true
 draft: false
 image: "img/portfolio/P1.A.jpg"
-date: "2016-11-05T18:25:22+05:30"
+date: ""
 title: "La Presidenta Market"
 weight: 0
 ---

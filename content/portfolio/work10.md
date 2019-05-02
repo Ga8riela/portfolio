@@ -2,7 +2,7 @@
 draft: false
 image: "img/portfolio/trifold.jpg"
 showonlyimage: true
-date: "2016-11-05T20:22:08+05:30"
+date: ""
 title: "Item with image"
 weight: 10
 ---
