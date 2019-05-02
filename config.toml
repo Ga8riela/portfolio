@@ -12,7 +12,7 @@ googleAnalytics = ""
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["home", "section", "RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["section", "RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet

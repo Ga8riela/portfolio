@@ -13,15 +13,15 @@ I´m currently collaborating with **RAUM studio** as a freelance architect. This
 
 #### Education
 
-**Postgraduate course: Projecting the hotel of the XXI century** 
+**Postgraduate course: Projecting the hotel of the XXI century**
 by ESCOLA SERT -OF THE CATALUNYA SCHOOL OF ARCHITECTS-
-Barcelona, Spain // Jan 2018 - Jul 2018 
+Barcelona, Spain // Jan 2018 - Jul 2018
 
-**Architecture licenciate** 
+**Architecture licenciate**
 by FRANCISCO MARROQUÍN UNIVERSITY
 Guatemala city, Guatemala // 2013
 
-**Architecture Lab: The link between history and contemporary Russian architecture** 
+**Architecture Lab: The link between history and contemporary Russian architecture**
 by FRANCISCO MARROQUÍN UNIVERSITY
 Moscow, Russia - Saint Petersburg, Russia // July 2011
 
@@ -32,7 +32,7 @@ Guatemala city, Guatemala // 2009
 
 ##### Complementary studies
 
-**Master in hotel, restaurant, and F&B management** 
+**Master in hotel, restaurant, and F&B management**
 by OSTELEA SCHOOL OF TOURISM & HOSPITALITY
 Barcelona, Spain // 2017
 
@@ -44,9 +44,9 @@ Barcelona, Spain // 2015-2016
 
 #### Languages
 
-**Spanish**  Maternal language        **English**  Advanced level
+**Spanish**  Native        **English**  Proficient
 
-**French**   Basic Level              **Catalan**  Undestand common talk
+**French**   Basic         **Catalan**  Basic
 
 
 
@@ -57,5 +57,3 @@ Barcelona, Spain // 2015-2016
 
 [1]: /img/About%201.jpg
 [2]: /img/AboutSkills.jpg
-
-
