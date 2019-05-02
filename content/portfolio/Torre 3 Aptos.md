@@ -1,5 +1,5 @@
 ---
-date: "2019-01-10T19:41:01+05:30"
+date: "2019-01-10"
 title: "Torre 3 Apartments"
 draft: false
 image: "img/portfolio/P2.A.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Contact me"
-date: "2018-18-01T13:00:25+05:30"
+date: "2018-18-01"
 ---
 
 Lets get in touch!
