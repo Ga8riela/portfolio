@@ -9,13 +9,10 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
-
 # RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
+# See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
-
-
+disableKinds = ["home", "section", "RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
